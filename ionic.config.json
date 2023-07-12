@@ -1,0 +1,7 @@
+{
+  "name": "neo-webview",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
